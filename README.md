@@ -4,7 +4,7 @@ Simple pub/sub (mqtt like) ipc in python based on sockets, with integrated k/v-s
 
 
 Available commands:
-    - emit
-    - subscribe
-    - save
-    - get
+- emit
+- subscribe
+- save
+- get
